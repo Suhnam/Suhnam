@@ -1,7 +1,5 @@
 # Sobre Mim
 
-## Quem Sou Eu?
-
 - 😄 Pode me chamar de Suhnam.
 - 🌱 Estou atualmente aprendendo as maravilhas do mundo da programação.
 - 📚 Estou sempre em busca de novos desafios e aprendizado constante.
