@@ -1,12 +1,8 @@
 # Sobre Mim
 
-Olá, mundo! 👋
-
-Eu sou um programador novato em busca do conhecimento e da aventura que é a programação. Meu lema na vida é "🌙 Não se deixe enganar pelas aparências. Deixe seus sentimentos te guiar e o verdadeiro caminho se abrirá diante de você". Portanto, estou aqui, seguindo meus sonhos e explorando o vasto universo da programação.
-
 ## Quem Sou Eu?
 
-- 😄 Chame-me de Suhnam.
+- 😄 Pode me chamar de Suhnam.
 - 🌱 Estou atualmente aprendendo as maravilhas do mundo da programação.
 - 📚 Estou sempre em busca de novos desafios e aprendizado constante.
 - 🚀 Minha jornada como desenvolvedor está apenas começando, e estou ansioso para o que o futuro reserva.
