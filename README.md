@@ -1,25 +1,53 @@
-# Sobre Mim
+# 🚀 Eduardo | Systems Administrator & Pharmacist
 
-- 😄 Pode me chamar de Suhnam.
-- 🌱 Estou atualmente aprendendo as maravilhas do mundo da programação.
-- 📚 Estou sempre em busca de novos desafios e aprendizado constante.
-- 🚀 Minha jornada como desenvolvedor está apenas começando, e estou ansioso para o que o futuro reserva.
+Profissional com formação em **Farmácia** e sólida experiência técnica em **infraestrutura de redes**, **segurança de sistemas** e **administração de servidores**. Minha abordagem combina o rigor metodológico da área da saúde com a autonomia técnica de ambientes *self-hosted*.
 
-## O Que Esperar de Mim?
+## 🛠️ Stack Técnica & Especialidades
+### **Infraestrutura e Redes**
 
-Você pode esperar de mim dedicação, paciência e um espírito curioso. Estou ansioso para colaborar em projetos, aprender com a comunidade e compartilhar minhas próprias descobertas ao longo do caminho. Juntos, podemos enfrentar desafios, aprender uns com os outros e alcançar grandes conquistas.
+  * **Homelab:** Gerenciamento de servidor ZimaBlade 7700 rodando ZimaOS e ambientes virtualizados.
+  * **Contêineres:** Orquestração de serviços via Docker e gerenciamento de microserviços.
+  * **Networking:** Implementação de túneis seguros (Cloudflare), proxy reverso (Nginx Proxy Manager) e redes locais avançadas.
 
-## Vamos Conectar?
+### **Segurança e Identidade**
 
-Estou sempre aberto a conhecer novas pessoas e expandir minha rede de contatos na comunidade de programação. Não hesite em entrar em contato comigo. Vamos compartilhar nossas experiências e crescer juntos nesta incrível jornada!
+  * **Secrets Management:** Configuração e gestão de políticas de acesso com HashiCorp Vault.
+  * **IAM:** Implementação de autenticação centralizada e SSO utilizando Authentik.
+  * **Criptografia:** Gestão de certificados digitais e segurança de infraestrutura crítica.
 
-![alt](https://media.discordapp.net/attachments/1162873756096671765/1162896583768154233/icons8-email-100.png?ex=653d9ad7&is=652b25d7&hm=706e9ffccb91c3e74cdd0af86d976e085b089401c8447a28c9f615dbe37b340a&=&width=40&height=40 "Title") suhnamdev@gmail.com
+### **Sistemas e Mobile Modding**
 
-<img src="https://media.discordapp.net/attachments/1162873756096671765/1162889165856329768/icons8-discord-100_1.png?ex=653d93ee&is=652b1eee&hm=72760996638172df87c8e4735fb3e53e62512cc40cde4561d1452d1fb57d4abb&=&width=125&height=125" alt="Ícone Pequeno" width="40" height="40"> Suhnam
+  * **Linux:** Administração de sistemas baseados em Debian e Ubuntu.
+  * **Mobile Sec:** Recuperação de bootloaders, instalação de firmwares customizados (LineageOS) e ferramentas de auditoria como Kali NetHunter.
 
-![alt](https://media.discordapp.net/attachments/1162873756096671765/1162896553543995464/icons8-insta-64.png?ex=653d9acf&is=652b25cf&hm=3710601bbd092e52c7ca1df9c17d87fa96698478eb28e05d000638dbe051a877&=&width=40&height=40 "Title") @3dduuu
+-----
 
-![alt](https://media.discordapp.net/attachments/1162873756096671765/1162916630498656346/320.png?ex=653dad82&is=652b3882&hm=e34474cef5d262720207f04647e0d4ee6523da2501a429d308b289c8f18bfc4b&=&width=300&height=277 "Title")  💭"Did you get all that?"   <img src=https://64.media.tumblr.com/9b8762ef5d2d4af30ced6af0af93d2a7/1c0828b744bf0410-71/s540x810/516e3adf2e2faf2325846c8c4a14eaee5411f32d.gif alt="Link" weigth="260" height="260">  💭 "Yeah..."
+## 🔬 Projetos em Destaque
+
+### 🏛️ [Homelab: Private Infrastructure]
+
+Desenvolvimento de uma infraestrutura de servidor privada focada em **autonomia de dados**. O projeto abrange desde a montagem do hardware até a implementação de camadas de segurança e automação de backups.
+
+### 🏥 [HealthTech Solutions]
+
+Integração de conhecimentos farmacêuticos com tecnologia, incluindo o planejamento de servidores dedicados para automação de farmácias e gestão de softwares específicos.
+
+-----
+
+## 🌐 Idiomas & Comunicação
+
+  * **Português:** Nativo.
+  * **Inglês:** Nível avançado para leitura técnica e consumo de mídia; em desenvolvimento constante da fluência oral.
+
+-----
+
+## 📫 Vamos Conectar?
+
+  * **Email:** eduardobiasbarbosa@gmail.com | suhanmdev@gmail.com
+  * **LinkedIn:** https://www.linkedin.com/in/eduardojbias/
+
+
+<img src=https://triforcewiki.s3.us-east-va.io.cloud.ovh.us/thumb/6/6f/Kaepora_Gaebora_MM3D_artwork.png/1200px-Kaepora_Gaebora_MM3D_artwork.png alt="Link" weigth="260" height="260"> 💭"Did you get all that?"   <img src=https://64.media.tumblr.com/9b8762ef5d2d4af30ced6af0af93d2a7/1c0828b744bf0410-71/s540x810/516e3adf2e2faf2325846c8c4a14eaee5411f32d.gif alt="Link" weigth="260" height="260">  💭 "Yeah..."
 ```javaScript
 
 let frase('🌙 Dont be deceived by appearances. Let your feelings guide you and the true path will open before you')
