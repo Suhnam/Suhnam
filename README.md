@@ -27,7 +27,7 @@ Minha abordagem combina administração de sistemas, segurança de infraestrutur
 - Firewall Segmentation
 - Zero Trust Concepts
 
-### 🔐**Mobile & Embedded Security**
+### 📡**Security**
 
 - Hardening
 - IAM & SSO (Authentik)
@@ -37,7 +37,7 @@ Minha abordagem combina administração de sistemas, segurança de infraestrutur
 - Secure Remote Access
 - Threat Surface Reduction
 
-### 📡**Security**
+### 🔐**Mobile & Embedded Security**
 
 - ESP32 Research
 - Kali NetHunter
