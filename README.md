@@ -1,24 +1,49 @@
-# 🚀 Eduardo | Systems Administrator & Pharmacist
+# ⚔️ Eduardo J. Bias | Cybersecurity & Infrastructure
 
-Profissional com formação em **Farmácia** e sólida experiência técnica em **infraestrutura de redes**, **segurança de sistemas** e **administração de servidores**. Minha abordagem combina o rigor metodológico da área da saúde com a autonomia técnica de ambientes *self-hosted*.
+Linux • Networking • Self-Hosted Infrastructure • Zero Trust • Hardening
+
+Profissional focado em infraestrutura, redes e segurança defensiva, com experiência prática em ambientes Linux, virtualização e arquiteturas self-hosted.
+Atuo na implementação de soluções voltadas para hardening, segmentação de rede, autenticação centralizada, monitoramento de logs e continuidade operacional.
+Minha abordagem combina administração de sistemas, segurança de infraestrutura e cultura de autonomia tecnológica através de homelabs e ambientes virtualizados.
 
 ## 🛠️ Stack Técnica & Especialidades
-### **Infraestrutura e Redes**
+### 🖥️**Infrastructure & Virtualization**
 
-  * **Homelab:** Gerenciamento de servidor ZimaBlade 7700 rodando ZimaOS e ambientes virtualizados.
-  * **Contêineres:** Orquestração de serviços via Docker e gerenciamento de microserviços.
-  * **Networking:** Implementação de túneis seguros (Cloudflare), proxy reverso (Nginx Proxy Manager) e redes locais avançadas.
+- Proxmox VE
+- Docker & Docker Compose
+- Linux (Debian/Ubuntu Server)
+- ZimaOS
+- TrueNAS Scale
+- Nginx Proxy Manager
+- Cloudflare Tunnel
 
-### **Segurança e Identidade**
+### 🌐**Networking**
 
-  * **Secrets Management:** Configuração e gestão de políticas de acesso com HashiCorp Vault.
-  * **IAM:** Implementação de autenticação centralizada e SSO utilizando Authentik.
-  * **Criptografia:** Gestão de certificados digitais e segurança de infraestrutura crítica.
+- VLANs
+- Reverse Proxy
+- VPNs
+- DNS Management
+- Wireless Auditing
+- Firewall Segmentation
+- Zero Trust Concepts
 
-### **Sistemas e Mobile Modding**
+### 🔐**Mobile & Embedded Security**
 
-  * **Linux:** Administração de sistemas baseados em Debian e Ubuntu.
-  * **Mobile Sec:** Recuperação de bootloaders, instalação de firmwares customizados (LineageOS) e ferramentas de auditoria como Kali NetHunter.
+- Hardening
+- IAM & SSO (Authentik)
+- Secrets Management (Vault)
+- MFA
+- Log Analysis
+- Secure Remote Access
+- Threat Surface Reduction
+
+### 📡**Security**
+
+- ESP32 Research
+- Kali NetHunter
+- Android Internals
+- Bootloader Recovery
+- Custom ROMs
 
 -----
 
@@ -27,6 +52,15 @@ Profissional com formação em **Farmácia** e sólida experiência técnica em 
 ### 🏛️ [Homelab: Private Infrastructure]
 
 Desenvolvimento de uma infraestrutura de servidor privada focada em **autonomia de dados**. O projeto abrange desde a montagem do hardware até a implementação de camadas de segurança e automação de backups.
+Projeto focado em restauração, hardening e reutilização de hardware para ambientes críticos e infraestruturas resilientes.
+
+Inclui:
+- Linux hardening
+- Segmentação de rede
+- Monitoramento de logs
+- Serviços self-hosted
+- Controle de identidade
+- Backup e redundância
 
 ### 🏥 [HealthTech Solutions]
 
